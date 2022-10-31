@@ -1,0 +1,2 @@
+# AutoCanon
+Musical Notation Generator
