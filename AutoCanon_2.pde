@@ -1,8 +1,5 @@
 import processing.pdf.*;
 
-
-
-
 int [] pitches = new int[9];
 int[] durations = new int[7];
 int count = 0;
